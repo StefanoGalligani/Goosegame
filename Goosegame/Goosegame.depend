@@ -1,0 +1,27 @@
+# depslib dependency file v1.0
+1520458628 source:c:\users\windows 8\desktop\stefano\informatica\c++\goosegame\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	"iocolor.h"
+
+1516306756 c:\users\windows 8\desktop\stefano\informatica\c++\goosegame\iocolor.h
+
+1520462611 source:c:\users\windows 8\desktop\goosegame\3ib_bujor_galligani_goosegame\goosegame\main.cpp
+	<iostream>
+	<windows.h>
+	<stdlib.h>
+	<cstring>
+	<stdio.h>
+	<time.h>
+	<conio.h>
+	<iomanip>
+	"iocolor.h"
+
+1516310356 c:\users\windows 8\desktop\goosegame\3ib_bujor_galligani_goosegame\goosegame\iocolor.h
+
